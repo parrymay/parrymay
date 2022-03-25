@@ -2,5 +2,5 @@
 - :mortar_board:Master's Student of the Bauman Moscow State Technical University.
 - :octocat:This is a repository for my pet-projects, coursework and graduate work and here I do what I want.
 - :briefcase:I am developer at QuantorFrom
-- 📫 How to reach me https://t.me/alks_andrnv.
+- 📫 How to reach me https://t.me/writeln_hello_world.
 - Have a good day!:)
