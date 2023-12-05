@@ -1,0 +1,11 @@
+C:\Projects\TEST\Trialogica\bin\Release\net6.0\Trialogica.deps.json
+C:\Projects\TEST\Trialogica\bin\Release\net6.0\Trialogica.dll
+C:\Projects\TEST\Trialogica\bin\Release\net6.0\Trialogica.pdb
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\Trialogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\Trialogica.AssemblyInfoInputs.cache
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\Trialogica.AssemblyInfo.cs
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\Trialogica.csproj.CoreCompileInputs.cache
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\Trialogica.dll
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\refint\Trialogica.dll
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\Trialogica.pdb
+C:\Projects\TEST\Trialogica\obj\Release\net6.0\ref\Trialogica.dll
